@@ -1,4 +1,4 @@
 Kiss
 ====
 
-This is a collection of problems solved by my buddies.
+这里是一个解题库。
